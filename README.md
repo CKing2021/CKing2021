@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cheyann
 - 👀 I’m interested in gaming, programming, editing.
 - 🌱 I’m currently learning C++.
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her or they/them is fine!
 - ⚡ Fun fact: I am very scatterbrained.
 
 <!---
